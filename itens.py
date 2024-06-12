@@ -1,0 +1,1 @@
+from sistema import nome_do_programa
